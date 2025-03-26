@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "Enter API Key"
 
 messages = []
 system_msg = input("What type of chatbot would you like to create?\n")
